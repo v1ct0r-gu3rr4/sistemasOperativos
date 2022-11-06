@@ -1,8 +1,8 @@
-﻿# VirtualMemSimulator [JAVA]
+﻿# Simulador de Memoria Virtual [JAVA]
 
 ## ***Integrantes***
-Victor Guerra
-Edgar Tellez
+-Victor Guerra 7691-19-11984
+-Edgar Tellez  7691-15-9407
 
 ## ***Especificaciones de Proyecto final***
 El proyecto consiste en simular un gestor de memoria, para el cual se debe realizar una aplicación con
