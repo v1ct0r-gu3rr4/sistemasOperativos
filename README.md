@@ -20,6 +20,11 @@ Su proyecto debe incluir manual de usuario, escrito en Markdown y debe estar jun
 fuente en un repositorio Git. Se puede trabajar en grupos no mayor a cuatro personas, cada persona
 debe tener su rama (git) donde refleje su colaboración
 
+
+## ***PDF CODIGO Y CAPTURAS***
+En el pdf se encuentra todo el codigo y capturas. 
+
+## ***CAPTURAS DE PROYECTO***
 ![Proceso 1](https://user-images.githubusercontent.com/112676652/200397672-9d8a89df-d41f-41a1-87c1-c20588e0193c.png)
 
 
